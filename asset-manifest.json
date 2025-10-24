@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/ashamolofficial/Frontend_Student_Grade/static/css/main.5c03e6bd.css",
-    "main.js": "/ashamolofficial/Frontend_Student_Grade/static/js/main.acfcbbe9.js",
-    "index.html": "/ashamolofficial/Frontend_Student_Grade/index.html",
-    "main.5c03e6bd.css.map": "/ashamolofficial/Frontend_Student_Grade/static/css/main.5c03e6bd.css.map",
-    "main.acfcbbe9.js.map": "/ashamolofficial/Frontend_Student_Grade/static/js/main.acfcbbe9.js.map"
+    "main.css": "/Frontend_Student_Grade/static/css/main.5c03e6bd.css",
+    "main.js": "/Frontend_Student_Grade/static/js/main.acfcbbe9.js",
+    "index.html": "/Frontend_Student_Grade/index.html",
+    "main.5c03e6bd.css.map": "/Frontend_Student_Grade/static/css/main.5c03e6bd.css.map",
+    "main.acfcbbe9.js.map": "/Frontend_Student_Grade/static/js/main.acfcbbe9.js.map"
   },
   "entrypoints": [
     "static/css/main.5c03e6bd.css",
