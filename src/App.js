@@ -97,7 +97,7 @@ function App() {
             <th className="border px-4 py-2">Subject</th>
             <th className="border px-4 py-2">Grade</th>
             <th className="border px-4 py-2">Remarks</th>
-            <th className="border px-4 py-2">Action</th>
+            
           </tr>
         </thead>
         <tbody>
@@ -107,11 +107,7 @@ function App() {
               <td className="border px-4 py-2">{s.subject_id?.subject_name}</td>
               <td className="border px-4 py-2">{s.grade}</td>
               <td className="border px-4 py-2">{s.remarks}</td>
-              <td className="border px-4 py-2">
-                <button onClick={() => handleDelete(s._id)} className="bg-red-500 text-white px-2 rounded">
-                  Delete
-                </button>
-              </td>
+              
             </tr>
           ))}
         </tbody>
